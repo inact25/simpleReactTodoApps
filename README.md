@@ -11,4 +11,4 @@
 - view on localhost:3000
 
 ### Snapshoot
-- ![Screen 1](https://github.com/inact25/simpleReactCalculator/blob/simpleReactTodoApps/src/snap1.png?raw=true)
+- ![Screen 1](https://github.com/inact25/simpleReactTodoApps/blob/simpleReactTodoApps/src/snap1.png?raw=true)
